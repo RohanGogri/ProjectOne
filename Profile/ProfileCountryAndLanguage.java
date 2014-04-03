@@ -4,5 +4,6 @@ class ProfileCountryAndLanguage
 	{
 		System.out.println("COUNTRY");
 		System.out.println("LANGUAGE");
+		System.out.println("CITY");
 	}
 }
